@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Supplied customer/operational data — keep out of the public repo.
+data/*.csv
+data/*.pdf

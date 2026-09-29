@@ -1,0 +1,47 @@
+agent_id,agent_name,site,roster_team,roster_shift,tickets,breaches,breach_rate,median_response_min,sla_credit_exposure_inr
+A3037,Rahul Sen,Bengaluru,Returns Desk,Morning,606,179,0.2953795379537954,81.5,62650
+A3028,Krishna Kaur,Indore,Logistics,Morning,558,176,0.3154121863799283,99.0,61600
+A3031,Om Malhotra,Bengaluru,Logistics,Morning,573,168,0.2931937172774869,101.0,58800
+A3018,Farah Sheikh,Bengaluru,Email Frontline,Morning,526,152,0.2889733840304182,287.0,53200
+A3019,Sai Sandhu,Bengaluru,Email Frontline,Morning,525,144,0.2742857142857143,294.0,50400
+A3032,Aadhya Sheikh,Indore,Billing,Morning,365,132,0.36164383561643837,93.0,46200
+A3033,Amit Kulkarni,Bengaluru,Billing,Morning,322,109,0.3385093167701863,91.0,38150
+A3035,Rohit Mukherjee,Bengaluru,Billing,Morning,340,108,0.3176470588235294,82.5,37800
+A3013,Ritika Chatterjee,Indore,Chat Frontline,Morning,240,100,0.4166666666666667,28.5,35000
+A3010,Neha Chatterjee,Indore,Chat Frontline,Morning,218,92,0.42201834862385323,18.0,32200
+A3039,Riya Gaikwad,Bengaluru,Escalations & Warranty,Morning,232,91,0.3922413793103448,133.0,31850
+A3009,Ramesh Patel,Bengaluru,Chat Frontline,Morning,202,85,0.4207920792079208,39.5,29750
+A3011,Karan Roy,Indore,Chat Frontline,Morning,203,83,0.4088669950738916,21.0,29050
+A3014,Diya Patil,Bengaluru,Chat Frontline,Morning,202,83,0.41089108910891087,35.5,29050
+A3005,Sameer Joshi,Bengaluru,Chat Frontline,Morning,219,81,0.3698630136986301,19.0,28350
+A3007,Neha Gaikwad,Bengaluru,Chat Frontline,Morning,217,78,0.35944700460829493,18.0,27300
+A3008,Steven Kaur,Indore,Chat Frontline,Morning,195,75,0.38461538461538464,17.0,26250
+A3043,Rohit Jain,Bengaluru,Escalations & Warranty,Morning,229,61,0.2663755458515284,87.0,21350
+A3034,Thomas Patel,Bengaluru,Billing,Day,639,54,0.08450704225352113,23.0,18900
+A3036,Rohit Shinde,Bengaluru,Returns Desk,Day,232,30,0.12931034482758622,22.0,10500
+A3027,Dev Chatterjee,Indore,Logistics,Day,320,27,0.084375,30.0,9450
+A3029,Rajat Iyer,Bengaluru,Logistics,Day,292,25,0.08561643835616438,28.0,8750
+A3030,Sunita Srivastava,Bengaluru,Logistics,Day,272,25,0.09191176470588236,31.0,8750
+A3038,Amit Yadav,Bengaluru,Returns Desk,Day,249,22,0.08835341365461848,22.0,7700
+A3012,Lakshmi Sethi,Bengaluru,Chat Frontline,Day,247,21,0.08502024291497975,6.0,7350
+A3022,Steven Tiwari,Bengaluru,Email Frontline,Day,240,20,0.08333333333333333,156.5,7000
+A3003,Harpreet Deshpande,Indore,Chat Frontline,Day,150,20,0.13333333333333333,6.0,7000
+A3006,Lakshmi Reddy,Bengaluru,Chat Frontline,Day,250,19,0.076,5.0,6650
+A3015,Yash Agarwal,Bengaluru,Chat Frontline,Day,192,19,0.09895833333333333,5.5,6650
+A3021,Aditya Dhillon,Bengaluru,Email Frontline,Day,253,18,0.07114624505928854,135.0,6300
+A3020,Ramesh Ghosh,Bengaluru,Email Frontline,Day,229,18,0.07860262008733625,142.0,6300
+A3004,Krishna Naidu,Bengaluru,Chat Frontline,Day,222,16,0.07207207207207207,6.0,5600
+A3026,Lakshmi Qureshi,Bengaluru,Voice Frontline,Day,215,13,0.06046511627906977,32.0,4550
+A3002,Tarun Mishra,Indore,Chat Frontline,Day,167,13,0.07784431137724551,5.0,4550
+A3025,Lobsang Rao,Bengaluru,Voice Frontline,Morning,142,11,0.07746478873239436,39.0,3850
+A3023,Rahul Khanna,Bengaluru,Voice Frontline,Day,208,10,0.04807692307692308,38.0,3500
+A3024,Kunal Khanna,Bengaluru,Voice Frontline,Morning,150,10,0.06666666666666667,39.0,3500
+A3040,Thomas Arora,Bengaluru,Escalations & Warranty,Day,71,8,0.11267605633802817,14.0,2800
+A3016,Deepak Jadhav,Indore,Email Frontline,Night,57,7,0.12280701754385964,53.0,2450
+A3003,Harpreet Deshpande,Indore,Chat Frontline,Night,55,7,0.12727272727272726,21.0,2450
+A3044,Kunal Malhotra,Bengaluru,Escalations & Warranty,Day,94,6,0.06382978723404255,13.0,2100
+A3002,Tarun Mishra,Indore,Chat Frontline,Night,57,6,0.10526315789473684,128.0,2100
+A3001,Zoya Mehta,Indore,Chat Frontline,Night,50,6,0.12,62.5,2100
+A3042,Steven Chopra,Bengaluru,Escalations & Warranty,Day,65,5,0.07692307692307693,24.0,1750
+A3041,Riya Fernandes,Indore,Escalations & Warranty,Day,61,4,0.06557377049180328,26.0,1400
+A3017,Shreya Bhatt,Indore,Email Frontline,Night,49,3,0.061224489795918366,15.0,1050
